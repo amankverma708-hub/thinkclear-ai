@@ -99,6 +99,8 @@ The goal is to move from **"AI as a tool" → "AI as a thinking partner."**
 ### Chat Interface
 ![Chat UI](screenshots/intro.png)
 
+### Login Page
+ screenshots/login.png
 _Add screenshots here:_
 - Login page  
 - Chat interface
