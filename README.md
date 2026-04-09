@@ -1,10 +1,10 @@
-# 🧠 ThinkClear AI – Personal Thinking Companion
+# ThinkClear AI – Personal Thinking Companion
 
 A human-centered AI system designed to help users think clearly, make better decisions, and understand their own patterns over time.
 
 ---
 
-## 💡 Problem
+## Problem
 
 People often struggle with:
 - Overthinking and decision paralysis  
@@ -14,7 +14,7 @@ People often struggle with:
 
 ---
 
-## 🚀 Solution
+## Solution
 
 ThinkClear AI is a **personal AI companion** that:
 - Learns from user conversations  
@@ -24,37 +24,37 @@ ThinkClear AI is a **personal AI companion** that:
 
 ---
 
-## ⚙️ Core Features
+## Core Features
 
-### 🧠 Persistent Memory System
+### Persistent Memory System
 - Stores user insights (goals, decisions, patterns)
 - Builds a long-term profile of the user
 - Uses memory to personalize future responses
 
-### 💬 ChatGPT-like Interface
+### ChatGPT-like Interface
 - Clean conversational UI
 - Real-time streaming responses
 - Chat history stored in database
 
-### 🎯 Decision Support System
+### Decision Support System
 - Provides structured outputs:
   - Options
   - Pros & Cons
   - Recommendations
   - Confidence level
 
-### 🔐 Authentication
+### Authentication
 - Google Sign-In + Email/Password
 - Secure user-specific data access
 
-### ⚡ Background Intelligence
+### Background Intelligence
 - Extracts insights after each conversation
 - Runs asynchronously (non-blocking)
 - Continuously improves personalization
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. User interacts with AI through chat  
 2. AI generates response using OpenAI models  
@@ -65,7 +65,7 @@ ThinkClear AI is a **personal AI companion** that:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** React / Lovable UI  
 - **Backend:** Edge Functions  
@@ -75,7 +75,7 @@ ThinkClear AI is a **personal AI companion** that:
 
 ---
 
-## 🔮 Future Scope
+## Future Scope
 
 - Weekly behavioral insights dashboard  
 - Emotional intelligence & sentiment tracking  
@@ -85,7 +85,7 @@ ThinkClear AI is a **personal AI companion** that:
 
 ---
 
-## 🎯 Vision
+## Vision
 
 This project explores building AI systems that:
 > Adapt to human thinking patterns rather than just responding to queries.
@@ -94,7 +94,10 @@ The goal is to move from **"AI as a tool" → "AI as a thinking partner."**
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+
+### Chat Interface
+![Chat UI](screenshots/intro.png)
 
 _Add screenshots here:_
 - Login page  
@@ -106,13 +109,13 @@ screenshots/intro.png
 
 ---
 
-## 📌 Status
+## Status
 
-🚧 Active Development – Core AI + Memory system implemented
+Active Development – Core AI + Memory system implemented
 
 ---
 
-## 👤 Author
+## Author
 
 Aman Verma  
 Aspiring AI Engineer focused on human-centered AI systems and decision intelligence.
