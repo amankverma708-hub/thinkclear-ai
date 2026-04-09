@@ -1,6 +1,6 @@
 # ThinkClear AI – Personal Thinking Companion
 
-A human-centered AI system designed to help users think clearly, make better decisions, and understand their own patterns over time.
+An AI-powered personal thinking companion that learns user behavior and improves decision-making over time.
 
 ---
 
@@ -43,6 +43,10 @@ ThinkClear AI is a **personal AI companion** that:
   - Recommendations
   - Confidence level
 
+### Unique Features
+- Memory-based personalization (user insights + traits)
+- Decision-support AI (not just chatbot)
+- Privacy-first architecture
 ### Authentication
 - Google Sign-In + Email/Password
 - Secure user-specific data access
@@ -84,6 +88,8 @@ ThinkClear AI is a **personal AI companion** that:
 - Mobile app version  
 
 ---
+## WHy this project matters
+- This project explores how AI can evolve from a tool into a thinking partner by adapting to human patterns and preferences.
 
 ## Vision
 
