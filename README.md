@@ -111,7 +111,9 @@ The goal is to move from **"AI as a tool" → "AI as a thinking partner."**
 ### Decision flow
 ![Decision Flow](screenshots/decision-flow.png)
 
-- Memory/insights system  
+### Memory / Insights System
+
+![Memory UI](screenshots/memory-ui.png)  
 
 ---
 
