@@ -108,7 +108,9 @@ The goal is to move from **"AI as a tool" → "AI as a thinking partner."**
 ### Login Page
 ![Chat UI](screenshots/login.png)
 
-- Decision flow  
+### Decision flow
+screenshots/decision-flow.png
+
 - Memory/insights system  
 
 ---
